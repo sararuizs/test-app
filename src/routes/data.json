@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "title":"the legend of zelda",
+        "version": "ocarina of time",
+        "genre": "aventura"
+   },
+   
+   {
+    "id": "2",
+    "title":"mario bros",
+    "version": "mario kart",
+    "genre": "carreras"
+    }
+
+]
